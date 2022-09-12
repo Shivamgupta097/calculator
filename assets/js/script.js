@@ -36,19 +36,18 @@ div.onclick = () => {
 
 seven.onclick = () => {
   input.value += '7';
-  console.log(input.value);
 
 }
 
 eight.onclick = () => {
   input.value += '8';
-  console.log(input.value);
+  
 
 }
 
 nine.onclick = () => {
   input.value += '9';
-  console.log(input.value);
+  
 
 }
 
